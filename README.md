@@ -1,6 +1,6 @@
 # Vaktbok – shift log for people with many employers
 
-**Live demo:** _(add your GitHub Pages link here)_
+**Live demo:** https://hami0505.github.io/Vaktbok/
 
 ## What it is and why
 Many people in health, care and child welfare work extra shifts through staffing agencies and for several employers at once. Each employer has its own timesheet, and nobody sees the whole picture. That makes it easy to lose track of hours, to underestimate (or overestimate) next month's pay, and to accidentally book shifts with less than the 11 hours of rest the Norwegian Working Environment Act normally requires.
